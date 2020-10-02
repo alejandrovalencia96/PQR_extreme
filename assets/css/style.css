@@ -1,0 +1,87 @@
+html, body{
+}
+
+img{
+  height: 60px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(17 169 185) !important;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: rgb(4 105 115) !important;
+}
+
+.headerContent{
+  color: #003e52;
+  margin: 30px 0 30px 0;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 45px;
+  padding: 30px 0 30px 0;
+  border-top: 3px solid #F3F3F3;
+  border-bottom: 3px solid #F3F3F3;
+}
+
+.textPruba{
+  text-align: center;
+  color: #c9d401;
+  font-size: 30px;
+}
+
+.modal-footer{
+  border-top: 0 !important;
+}
+
+.message{
+  font-size: 14px;
+  text-align: center;
+}
+
+.btnAñadir{
+  float:right;
+}
+
+.itemsPQR{
+ border: 1px solid grey;
+ padding: 10px;
+}
+
+.itemsCenter{
+  display: flex;
+  align-items: center;
+}
+
+.peticion{
+  color:#00a3b4;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.queja{
+  color: orange;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: capitalize;
+
+}
+
+.reclamo{
+  color: red;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: capitalize;
+
+}
+
+.tipo{
+  text-transform: capitalize;
+}
+
+.asunto{
+  /* text-transform: capitalize; */
+}
